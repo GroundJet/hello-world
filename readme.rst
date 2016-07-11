@@ -19,3 +19,6 @@ Some theories that seem to come to my mind:
 - A secret Illuminati code is hidden in every Hello World title of every project that makes a counter tick, when this counter reaches a certain number the Illuminati will rise
 - Somebody without a lot of time got the task to build a demonstration program for beginners and now people with a lot of time trying to figure why would someone without time do that?
 
+Now, I'm learning GTK+ programing and don't want to create a new repo just for tests, so I'll keep adding files related to them right here.
+
+To compile
